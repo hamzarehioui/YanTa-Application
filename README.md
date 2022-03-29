@@ -1,4 +1,4 @@
-# Contact Manager GUI
+# YanTa (Yet Another Note-Taking Application)
 
 ## Concerned Courses
 This project was developed in parallel with the following course as the *term-project*:
