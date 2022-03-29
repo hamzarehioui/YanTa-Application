@@ -11,12 +11,12 @@ This note-taking application was made using the concepts of Software Engineering
 
 ## Interface
 <p align="middle">
-   <img src="https://github.com/therhamza/YanTa-Application/blob/master/Exam1/Resources/GUI1.png" width="300"/>
-   <img src="https://github.com/therhamza/YanTa-Application/blob/master/Exam1/Resources/GUI2.png" width="300"/>
+   <img src="https://github.com/therhamza/YanTa-Application/blob/master/Exam1/Resources/GUI1.PNG" width="300"/>
+   <img src="https://github.com/therhamza/YanTa-Application/blob/master/Exam1/Resources/GUI2.PNG" width="300"/>
 </p>   
 <p align="middle">
-   <img src="https://github.com/therhamza/YanTa-Application/blob/master/Exam1/Resources/GUI3.png" width="300"/>
-   <img src="https://github.com/therhamza/YanTa-Application/blob/master/Exam1/Resources/GUI4.png" width="300"/>
+   <img src="https://github.com/therhamza/YanTa-Application/blob/master/Exam1/Resources/GUI3.PNG" width="300"/>
+   <img src="https://github.com/therhamza/YanTa-Application/blob/master/Exam1/Resources/GUI4.PNG" width="300"/>
 </p>   
 
 ## Installation
