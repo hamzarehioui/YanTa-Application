@@ -151,7 +151,7 @@ namespace Exam1
                 }
                 else
                 {
-                    MessageBox.Show("You have to change the title!");
+                    MessageBox.Show("You did not change the title.");
                     return;
                 }
 

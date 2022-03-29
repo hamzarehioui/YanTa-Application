@@ -147,6 +147,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="LICENSE" />
+    <Content Include="Resources\GUI1.PNG" />
+    <Content Include="Resources\GUI2.PNG" />
+    <Content Include="Resources\GUI3.PNG" />
+    <Content Include="Resources\GUI4.PNG" />
     <Content Include="Model1.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>YanTaNotesDB.edmx</DependentUpon>
@@ -158,6 +163,7 @@
       <LastGenOutput>Model1.cs</LastGenOutput>
     </Content>
     <None Include="Resources\notebook.png" />
+    <None Include="README.md" />
     <Content Include="YanTaNotesDB.edmx.sql" />
   </ItemGroup>
   <ItemGroup>
